@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+Pillow
+requests
+python-multipart
+duckdb
+pypdf
+pdf2image
+langchain
+langchain-community
+duckduckgo-search
+python-dotenv
+google-generativeai
+langchain-google-genai
